@@ -8,5 +8,6 @@ While doing code reviews I found it helpfull to have a look at the code and test
 To make this easier this little extension reorders the view. You find the spec files directly after the code file.
 
 ----
-Use it at your own risk - @bumi has no idea what he's doing:
+Use it at your own risk - [bumi](https://github.com/bumi) has no idea what he's doing:
+
 ![gif](http://im.ezgif.com/tmp/gif_100x67_d59a40.gif)
