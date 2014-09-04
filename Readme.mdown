@@ -1,0 +1,10 @@
+Github Pull Request reordering ([originally published as firefox extension](https://github.com/railslove/reorder-github-diff) by [bumi](https://github.com/bumi))
+===============
+
+This chrome extension reorders the Github Pull Request file diff view to display the spec files below the actual code file.
+While doing code reviews I found it helpfull to have a look at the code and test file at the same time. But depending on the size of the PR finding the corresponding spec file can be annoying.
+To make this easier this little extension reorders the view. You find the spec files directly after the code file.
+
+----
+Use it at your own risk - @bumi has no idea what he's doing:
+![gif](http://im.ezgif.com/tmp/gif_100x67_d59a40.gif)
