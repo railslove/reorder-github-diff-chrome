@@ -6,7 +6,7 @@
   "icons": { "64": "icon64.png" },
   "content_scripts": [
      {
-       "matches": ["https://github.com/*"],
+       "matches": ["https://*.github.com/*/pull/*"],
        "js": ["jquery-2.1.1.min.js", "reorder.js"]
     }
   ]
