@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "@bumi's Spec File Reorder Script for GitHub Pull Requests",
+  "name": "Spec File Reordering for GitHub Pull Requests",
   "description": "This extension reorders the github pull request file diff tab to display the spec file below the actual file.",
   "version": "1.0",
-  "icons": { "64": "icon64.png" },
+  "icons": { "128": "icon128.png" },
   "content_scripts": [
      {
        "matches": ["https://*.github.com/*/pull/*"],
